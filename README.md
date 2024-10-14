@@ -1,2 +1,2 @@
-# poc-data-taylor
-Estudo de detecção utilizando dataset que detecta a cantora Taylor Swift
+# POC_taylor_detect
+Detection study using a dataset that detects singer Taylor Swift
